@@ -5,6 +5,7 @@
 #include <GL/glut.h>
 #include <windows.h>
 
+.
 void initGL() {
     glClearColor(0.0, 0.0, 0.0, 1.0);
     glClearDepth(1.0);                     
